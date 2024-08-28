@@ -14,7 +14,7 @@ const typeDefs = /* GraphQL */`
         image: String
         link: String
     }
-    type InputBook {
+    input InputBook {
         bookId: String
         authors: [String]
         description: String
@@ -32,7 +32,7 @@ const typeDefs = /* GraphQL */`
     }
 
     type Mutation {
-        login(email: String!, passowrd: String!): Auth
+        login(email: String!, password: String!): Auth
         addUser(username: String!, email: String!, password: String!): Auth
         saveBook(newBook: InputBook!): User
         removeBook(bookId: ID!): User

@@ -1,13 +1,13 @@
 const typeDefs = /* GraphQL */`
     type User {
-        _id: ID!
-        username: String!
-        email: String!
+        _id: ID
+        username: String
+        email: String
         bookCount: Int
         savedBooks: [Book]
     }
     type Book {
-        bookId: ID!
+        bookId: ID
         authors: [String]
         description: String
         title: String
@@ -23,7 +23,7 @@ const typeDefs = /* GraphQL */`
         link: String
     }
     type Auth {
-        token: ID!
+        token: ID
         user: User
     }
 

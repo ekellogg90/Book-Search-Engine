@@ -38,6 +38,7 @@ const LoginForm = () => {
         error.message = 'Error logging in User: ' + error.message
         throw error;
       }
+      console.log(data);
 
       Auth.login(data.login.token);
     } catch (err) {

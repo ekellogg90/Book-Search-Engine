@@ -24,7 +24,7 @@ Create an account and start searching for books!  Save the ones you like to your
 
 [Deployed App](https://book-search-engine-po8k.onrender.com/)
 
-![Landing Page](image.png)
+![image](https://github.com/user-attachments/assets/c70d963f-3bab-4b8c-a580-8962cbe27d72)
 
 ## License
 This application is covered under the MIT license.

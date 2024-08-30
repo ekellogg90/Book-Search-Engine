@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.11.4",
-    "graphql": "^16.9.0"
+    "graphql": "^16.9.0",
+    "mongodb": "^6.8.0"
   }
 }

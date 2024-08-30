@@ -32,13 +32,9 @@ This application is covered under the MIT license.
 ## Contribute
 Commit directly to main
 
-## Tests
-N/A
-
 ## Questions
 - [ekellogg90's gitHub profile](https://github.com/ekellogg90)
 - Please contact me at <a href="mailto:ekellogg90@gmail.com">ekellogg90@gmail.com</a> for any additional questions.
 
 ## Credits
-- People to credit: N/A
 - Tools used: React, GraphQL, MongoDB, Express
